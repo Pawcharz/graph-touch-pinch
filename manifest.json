@@ -1,0 +1,10 @@
+{
+  "id": "graph-touch-pinch",
+  "name": "Graph Touch Pinch",
+  "version": "0.1.0",
+  "minAppVersion": "1.15.1",
+  "description": "Zoom the graph view with a two-finger pinch on Windows touchscreens.",
+  "author": "Pawcharz",
+  "authorUrl": "https://github.com/Pawcharz",
+  "isDesktopOnly": true
+}
